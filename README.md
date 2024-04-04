@@ -12,7 +12,7 @@ Right now there are only two firmwares available for the rotc0n badge:
 - rot13labs_rotc0n_bsides.hex -- This firmware was made for the unofficial rot13labs afterparty for BSides Tampa 
 2024
 
-## flashing The Badge
+## Flashing The Badge
 
 The rotc0n badge is fully QMK compatible, which means you can use the [QMK 
 Toolbox](https://github.com/qmk/qmk_toolbox) to flash new firmware onto your badge! heres how you can get 
