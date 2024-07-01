@@ -4,6 +4,8 @@ This is the official repo for the rotc0n badge and its firmwares. That's right, 
 wanted this badge to bring folks joy even after rotc0n itself is done, so we're planning to periodically release 
 new firmware for it to get you into secret parties we host at other cons!
 
+Want to get your hands on one before they're gone? You can snag a rotc0n badge [Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) or [Here](https://goimagine.com/rotcon-0-badge/)
+
 ## Firmwares Included
 
 There are currently three different firmwares available for the rotc0n badge:
