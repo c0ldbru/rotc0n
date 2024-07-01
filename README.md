@@ -6,11 +6,11 @@ new firmware for it to get you into secret parties we host at other cons!
 
 ## Firmwares Included
 
-Right now there are only two firmwares available for the rotc0n badge:
+There are currently three different firmwares available for the rotc0n badge:
 
 - rot13labs_rotc0n_default.hex -- This is the default rotc0n firmware that your badge shipped with.
-- rot13labs_rotc0n_bsides.hex -- This firmware was made for the unofficial rot13labs afterparty for BSides Tampa 
-2024
+- rot13labs_rotc0n_bsides.hex -- This firmware was made for the unofficial rot13labs afterparty for BSides Tampa 2024
+- rot13labs_rotc0n_defcon.hex -- This firmware contains the time/date/location for the rotcon party at DEFCON 32
 
 ## Flashing The Badge
 
